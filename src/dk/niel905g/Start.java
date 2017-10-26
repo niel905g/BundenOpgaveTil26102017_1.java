@@ -26,7 +26,9 @@ public class Start {
         MineMetoder metoder = new MineMetoder();
         metoder.doWhileMetode();
         metoder.ShowCurrentTimeMethod();
-
+/* Hej underviser, nu har jeg lavet en rettelse hvorved samtlige af mine metoder bliver
+ kaldt fra Start.java!
+  */
 
     }
 }
